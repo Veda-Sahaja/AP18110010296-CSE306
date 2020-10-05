@@ -1,4 +1,4 @@
-// 4. Recognize strings ending with 00.
+//  Recognize strings ending with 00 using lex
 %option noyywrap
 %%
 [0-9]*00	printf("String Accepted\n");
