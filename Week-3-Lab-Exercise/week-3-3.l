@@ -1,4 +1,4 @@
-// 3. Count the number of Lines in given input.
+// Count the number of Lines in given input using lex
 %option noyywrap
 %{
   int num_lines=0;
