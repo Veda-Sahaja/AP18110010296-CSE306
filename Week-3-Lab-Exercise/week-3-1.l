@@ -1,4 +1,4 @@
-// 1. Identification of Vowels and Consonants.
+// Identification of Vowels and Consonants using lex
 %option noyywrap
 %%
 [aeiouAEIOU]    printf("%s is Vowel\n",yytext); 
