@@ -1,4 +1,4 @@
-// 2. Count number of vowels and consonants.
+// Count number of vowels and consonants using lex
 %option noyywrap
 %{
   int v=0,c=0;
