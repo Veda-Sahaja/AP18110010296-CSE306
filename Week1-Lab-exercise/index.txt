@@ -1,1 +1,4 @@
+1.Implementation of Language recognizer
 
+a. Set of all strings over binary alphabet containing even number of 0’s and even number of 1’s.
+b. Set of all strings ending with two symbols of same type.
